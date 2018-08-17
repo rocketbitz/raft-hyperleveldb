@@ -25,3 +25,7 @@ BenchmarkHyperLevelDBStore_Get-8                 2000000               795 ns/op
 BenchmarkHyperLevelDBStore_SetUint64-8            200000              9086 ns/op
 BenchmarkHyperLevelDBStore_GetUint64-8           2000000               856 ns/op
 ```
+
+## Remarks
+
+Credit to https://github.com/tidwall/raft-leveldb for the original raft-leveldb
